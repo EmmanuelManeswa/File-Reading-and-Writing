@@ -1,0 +1,5 @@
+A Very Special Bank Account
+
+Imagine you had a bank account that deposited $86,400 each morning. The account carries over no balance from day to day, allows you to keep no cash balance, and every evening cancels whatever part of the amount you had failed to use during the day. What would you do? Draw out every dollar each day!
+
+We all have such a bank. Its name is Time. Every morning, it credits you with 86,400 seconds. Every night it writes off, as lost, whatever time you have failed to use wisely. It carries over no balance from day to day.
