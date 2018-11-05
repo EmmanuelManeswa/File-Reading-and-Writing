@@ -28,7 +28,7 @@ int main(int argc, char *argv[]){
   }
 
   char buf[buf_size];
-  int bytes_read, bytes_written;
+  ssize_t bytes_read, bytes_written;
   while((bytes_read = read(read_fd, buf, buf_size)) > 0){
     bytes_written = write(write_fd, buf, bytes_read);
     if(bytes_written < 0){
