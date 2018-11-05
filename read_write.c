@@ -6,7 +6,7 @@
 #include <fcntl.h>
 #include <errno.h>
 
-#define buf_size 100
+#define buf_size 1024
 
 int main(int argc, char *argv[]){
 
